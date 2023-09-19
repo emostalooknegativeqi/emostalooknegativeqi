@@ -1,5 +1,5 @@
-<h1 align="center">Das trevas surge Emostalook</h1>
-<h3 align="center">o cara que gosta de filmes assustadores</h3>
+<h1 align="center">Das trevas surge ... Emostalook</h1>
+<h3 align="center">O cara que gosta de filmes assustadores</h3>
 
 <!--
 - 🔭 I’m currently working on **at the gates of hell**
@@ -22,6 +22,4 @@
 
 -->
 
-![Alt Text](https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif)
-<br>
-<img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="40" height="40" />
+<img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
