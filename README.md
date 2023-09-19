@@ -1,6 +1,7 @@
 <h1 align="center">Das trevas surge Emostalook</h1>
 <h3 align="center">o cara que gosta de filmes assustadores</h3>
 
+<!--
 - 🔭 I’m currently working on **at the gates of hell**
 
 - ⚡ Fun fact **I eat soap**
@@ -18,5 +19,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/emostalook"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emostalook" /></a></p><br><br>
+
+-->
 
 <img src="6636d37ba22a391c6353b1436a81f656.gif" autoplay>
